@@ -3,17 +3,22 @@
 ############################
 Binaries/
 Build/
-
-Intermediate/
-
 DerivedDataCache/
-
+Intermediate/
 Saved/
+
 StarterContent/
 .vs/
+
+BuildingEscape/Content/StarterContent/Textures
+BuildingEscape/Content/StarterContent/HDRI
 
 ################
 ########
 # VS Generated Files #
 ########################
 *.VC.db*
+*.suo
+*.VC.opendb
+*.sln
+*.uasset
